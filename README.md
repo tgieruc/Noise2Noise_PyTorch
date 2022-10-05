@@ -18,8 +18,9 @@ on [this Drive](https://drive.google.com/drive/folders/198AnkC5XJtQgJ76DNL3v5iAp
 
 ## Use
 
-A demo Jupyter Notebook is available [here]().
+A demo Jupyter Notebook is available [here](https://github.com/tgieruc/Noise2Noise_PyTorch/blob/main/demo.ipynb).
 
 ## Report
 
-A full report on this implementation can be found [here]().
+A full report on this implementation can be
+found [here](https://github.com/tgieruc/Noise2Noise_PyTorch/blob/main/Report_Noise2Noise_PyTorch.pdf).
