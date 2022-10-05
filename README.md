@@ -1,3 +1,6 @@
+[Colab](https://colab.research.google.com/drive/1ImErM9dHoWjyv1KykixcoV4_IBYZaEi0#scrollTo=L7IoUWkgbS7o)
+• [Paper](https://arxiv.org/abs/1803.04189)
+
 # Noise2Noise, unofficial PyTorch implementation
 
 This is a simple implementation of the [Noise2Noise](https://arxiv.org/abs/1803.04189) paper (Lehtinen et al., 2018).
