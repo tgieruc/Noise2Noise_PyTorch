@@ -1,5 +1,5 @@
 # Noise2Noise, unofficial PyTorch implementation
-[Colab](https://colab.research.google.com/drive/1ImErM9dHoWjyv1KykixcoV4_IBYZaEi0#scrollTo=L7IoUWkgbS7o)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tgieruc/Noise2Noise_PyTorch/blob/main/Noise2Noise_PyTorch_demo.ipynb)
 • [Paper](https://arxiv.org/abs/1803.04189)
 
 This is a simple implementation of the [Noise2Noise](https://arxiv.org/abs/1803.04189) paper (Lehtinen et al., 2018).
@@ -20,7 +20,7 @@ on [this Drive](https://drive.google.com/drive/folders/198AnkC5XJtQgJ76DNL3v5iAp
 
 ## Use
 
-A demo Jupyter Notebook is available [here](https://github.com/tgieruc/Noise2Noise_PyTorch/blob/main/demo.ipynb).
+A demo Jupyter Notebook is available here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tgieruc/Noise2Noise_PyTorch/blob/main/Noise2Noise_PyTorch_demo.ipynb).
 
 ## Report
 
