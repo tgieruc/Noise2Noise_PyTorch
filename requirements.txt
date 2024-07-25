@@ -1,5 +1,5 @@
 numpy==1.22.0
-torch==1.13.1
+torch==2.2.0
 torchvision==0.14.1
 tqdm==4.64.0
 matplotlib==3.6.3
